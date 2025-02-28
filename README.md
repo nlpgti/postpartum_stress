@@ -1,7 +1,7 @@
 # Methods
 
 
-- The prepare_dataset() method ([a_preprocess_text.py](a_preprocess_text.py)) prepares the dataset for further tests. It is optimized for the [PostPartum Depression Kaggle dataset](https://www.kaggle.com/datasets/parvezalmuqtadir2348/postpartum-depression?select=post+natal+data.csv).
+- The prepare_dataset() method ([a_dataset_analysis.py](a_dataset_analysis.py)) prepares the dataset for further tests. It is optimized for the [PostPartum Depression Kaggle dataset](https://www.kaggle.com/datasets/parvezalmuqtadir2348/postpartum-depression?select=post+natal+data.csv).
 
 - The balanced_samples() method ([b_ML.py](b_ML.py)) balances the classes.
 
